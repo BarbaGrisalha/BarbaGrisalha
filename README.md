@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @BarbaGrisalha
 - 👀 I’m interested in learn C++
 - 📫 How to reach me  box.altamir@gmail.com 
+- Could you help me? Thanks
 
 <!---
 BarbaGrisalha/BarbaGrisalha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
